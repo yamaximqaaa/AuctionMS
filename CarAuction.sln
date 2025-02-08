@@ -8,7 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AuctionServiceGen2", "Aucti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionService.Api", "AuctionService.Api\AuctionService.Api.csproj", "{9533D62E-AC16-46ED-96FA-AE8B4885740C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionService.App", "AuctionService.App\AuctionService.App.csproj", "{EB9760C0-0AE7-43A7-8CA9-89CBA92F46BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionService.Application", "AuctionService.Application\AuctionService.Application.csproj", "{EB9760C0-0AE7-43A7-8CA9-89CBA92F46BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
